@@ -10,10 +10,10 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sassy+Frass&display=swap');
+
 
 .square {
-  font-family: 'Sassy Frass', cursive;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
   color: #c0c0c5;
   width: 100px;
